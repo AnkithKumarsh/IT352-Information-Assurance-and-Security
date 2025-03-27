@@ -47,6 +47,7 @@ The calculator makes use of the following key mathematical functions:
    ```
 4. Open your browser and visit `http://localhost:5173`.
 
+Alternatively, you can access the live application here: [Primitive Root Calculator](https://primitiverootcalculator.vercel.app/).
 
 ## Developed By
 - **Student**: Ankith Kumar
